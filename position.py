@@ -1,0 +1,1 @@
+# 5. Write a Python program to rotate a list by 'n' positions, where 'n' is user input.
